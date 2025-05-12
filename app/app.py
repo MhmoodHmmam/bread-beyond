@@ -416,4 +416,4 @@ elif page == "Promotional Calendar":
 # Footer
 st.sidebar.markdown("---")
 st.sidebar.caption("Data Analytics Dashboard")
-st.sidebar.caption("© 2025 Bakery Analytics Ltd")
+st.sidebar.caption("© 2025 MAHMOUD HAMMAM")
